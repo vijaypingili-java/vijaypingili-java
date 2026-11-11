@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi I'm Vijay Reddy 👋
 
-<!--
-**vijaypingili-java/vijaypingili-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building reliable, scalable web applications and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Backend:** Java, Spring Boot, Hibernate
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Database:** Oracle SQL, PostgreSQL
+- **Tools:** Git, GitHub, IntelliJ IDEA, Maven
+
+### 🎯 Currently Focused on
+
+- Data Structures & Algorithms
+- Object-oriented programming
+- System Design
+- Backend Engineering
+- Full Stack Development
+
+### 🚀 My Goals
+- Build production-ready applications.
+- Strengthen problem-solving skills.
+- Learn cloud technologies and AWS.
+- Contribute to meaningful software projects.
+
+### 📩 Connect with Me
+- Gmail: vijaypingili.java@gmail.com
+
+Always Learning. Always Building.🚀
